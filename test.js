@@ -1,6 +1,3 @@
-let btn = document.getElementById("boton")
-btn.addEventListener("click",sample)
-
-function sample(){
-    alert("押さないでよ！")
+document.getElementById("login").onclick = function(){
+    location.href = "https://sites.google.com/view/simpleworld/%E3%83%9B%E3%83%BC%E3%83%A0"
 }
